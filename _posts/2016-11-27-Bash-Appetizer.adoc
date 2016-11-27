@@ -1,3 +1,2 @@
 = Bash Appetizer
-:hp-image:  https://github.com/akr-optimus/akr-optimus.github.io/blob/master/images/bash.png
-
+image::http://github.com/akr-optimus/akr-optimus.github.io/images/bash.png
