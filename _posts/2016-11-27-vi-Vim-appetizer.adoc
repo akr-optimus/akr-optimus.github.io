@@ -1,2 +1,2 @@
 = vi & Vim appetizer
-:hp-image: https://github.com/akr-optimus/akr-optimus.github.io/blob/master/images/bash.png
+
