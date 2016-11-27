@@ -6,7 +6,7 @@
   },
   "site": {
     "title": "The Equilibrium",
-    "cover": "https://github.com/akr-optimus/akr-optimus.github.io/blob/master/images/yinyangDragon.jpg"
+    "cover": "image::http://github.com/akr-optimus/akr-optimus.github.io/images/yinyangDragon.jpg"
   },
   "socialnetwork": {},
   "theme": {
