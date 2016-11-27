@@ -4,7 +4,11 @@
     "repositoryName": "akr-optimus.github.io",
     "branch": "master"
   },
+  "site": {
+    "cover": "https://github.com/akr-optimus/akr-optimus.github.io/blob/master/images/yinyangDragon.jpg"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
