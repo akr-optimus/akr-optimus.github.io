@@ -1,7 +1,0 @@
-= vi & Vim appetizer
-
-== A bit of history:
-
-The year was 1976 when link:https://en.wikipedia.org/wiki/Vi[vi] was initally released by link:https://en.wikipedia.org/wiki/Bill_Joy[Bill Joy]. The original code for vi was written as a visual mode for a line editor called link:https://en.wikipedia.org/wiki/Ex_(text_editor)[ex] that Joy had written with Chuck Haley.
-
-
